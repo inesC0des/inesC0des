@@ -1,0 +1,11 @@
+{
+  "name": "inesc0des",
+  "version": "1.0.0",
+  "description": "My portfolio website with blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ines Petersen",
+  "license": "ISC"
+}
